@@ -1,0 +1,11 @@
+# Ignore build generated files
+build
+
+# Ignore private files
+src/js/private.js
+
+# Ignore waf lock file
+.lock-waf*
+
+# Ignore any assets used for marketing, app store etc
+assets

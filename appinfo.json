@@ -1,0 +1,36 @@
+{
+    "appKeys": {
+        "GET_WEATHER": 1,
+        "KEY_MSG_TYPE": 0,
+        "KEY_SKY": 12,
+        "KEY_SUNRISE": 10,
+        "KEY_SUNSET": 11,
+        "KEY_TEMPERATURE": 13
+    },
+    "capabilities": [
+        "location"
+    ],
+    "companyName": "Marwan Zogheib",
+    "longName": "1984",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/gtw.ttf",
+                "name": "FONT_CUSTOM_18",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "1984",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "31dd8830-86ce-4f98-9ba3-7c39ccb45021",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
